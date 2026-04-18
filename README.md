@@ -1,4 +1,4 @@
-# 📂 Quix Game: OS Project
+# 📂 Quiz Game: OS Project
 
 * **Name:** Vaidehi Dave
 * **Roll Number:** 243501207
